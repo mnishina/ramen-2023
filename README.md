@@ -13,3 +13,8 @@ The Ramens log I ate in 2023.
 プログラミングとWebGLの練習用作品。
 
 A practice piece for a programming and the WebGL.
+
+## Awards
+
+- **STAR** *[CSS WINNER](https://www.csswinner.com/details/ramen2023/17776)*
+- **Nominee** *[AWWWARDS](https://www.awwwards.com/sites/ramen2023)*
